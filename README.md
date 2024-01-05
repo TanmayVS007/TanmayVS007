@@ -51,7 +51,7 @@ I'm a dedicated student at Government Polytechnic Mumbai, fueled by a passion fo
 
 I'm open to collaboration, learning opportunities, and connecting with fellow Flutter enthusiasts. If you're on the lookout for a passionate Flutter developer or just want to chat, feel free to reach out!
 
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Tanmay_Sonawane-blue)](https://www.linkedin.com/in/yourlinkedinprofile)
-- [![Email Badge](https://img.shields.io/badge/Email-you%40example.com-red)](mailto:you@example.com)
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Tanmay_Sonawane-blue)](https://www.linkedin.com/in/tanmay-sonawane-296698248)
+- [![Email Badge](https://img.shields.io/badge/Email-fs21co023.tanmay%40gmail.com-red)](mailto:fs21co023.tanmay@gmail.com)
 
 Excited for the next Flutter-powered adventure! 🚀✨
